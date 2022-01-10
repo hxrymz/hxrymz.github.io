@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{183:function(e,n,o){"use strict";o.r(n);var t=o(2),a=o.n(t),c=o(0);o(37);n.default=function(){return a.a.createElement("div",{className:"".concat(Object(c.P)("loadingMov")?"progress-line-palette progress-line":""),style:{marginTop:"25px",opacity:Object(c.P)("loadingMov")?1:0}})}}}]);
-//# sourceMappingURL=60.03214d9b.chunk.js.map
