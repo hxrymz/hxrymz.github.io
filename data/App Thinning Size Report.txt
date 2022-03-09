@@ -1,0 +1,204 @@
+
+App Thinning Size Report for All Variants of hrmfinance
+
+Variant: hrmfinance-015683A3-550D-4B27-9D17-A7068BFD892C.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], and [device: iPhone11,8, os-version: 14.0]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-0236E665-52ED-462B-8CF1-812F8337AAC1.ipa
+Supported variant descriptors: [device: iPhone11,4, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], and [device: iPhone9,2, os-version: 13.0]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-1BA8681D-5AC7-490D-84FA-C037198E2018.ipa
+Supported variant descriptors: [device: iPad5,2, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad7,11, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: iPad6,8, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad5,2, os-version: 14.0], [device: iPad6,11, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad7,12, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad6,7, os-version: 14.0], and [device: iPad7,11, os-version: 13.0]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-2BC62E1F-39FD-4DE6-84F1-08204BED3503.ipa
+Supported variant descriptors: [device: iPad6,4, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,2, os-version: 12.2], and [device: iPad7,1, os-version: 12.2]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-338837F5-FF03-4232-904B-19C6225DCB5C.ipa
+Supported variant descriptors: [device: iPad13,8, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad11,3, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad8,12, os-version: 15.0], and [device: iPad13,10, os-version: 15.0]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-46448821-08D0-40CA-9D7D-AEC0BFE3E762.ipa
+Supported variant descriptors: [device: iPhone14,2, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone13,1, os-version: 15.0], and [device: iPhone10,6, os-version: 15.0]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-4BD94DCC-8CDE-497B-BAAD-47BC7D48BDC5.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 13.7 MB compressed, 35.2 MB uncompressed
+App size: 13.7 MB compressed, 35.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-4BF3E308-CC82-4F7D-A13B-45CC055C89AF.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-576075D3-9719-49A8-B0CB-12CDC21B103F.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2] and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-628586ED-0DB7-4762-9009-66D70B36149F.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 15.0] and [device: iPhone11,8, os-version: 15.0]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-63FE3B5E-8511-46D5-8ED9-A42A6BE40889.ipa
+Supported variant descriptors: [device: iPhone6,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], and [device: iPhone8,1, os-version: 12.0]
+App + On Demand Resources size: 13.6 MB compressed, 35.2 MB uncompressed
+App size: 13.6 MB compressed, 35.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-6DA9871A-66C8-44DC-AC9A-A4FD59AE6DAF.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 14.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], and [device: iPhone10,4, os-version: 14.0]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-774E6E5B-348F-443F-83BA-59705080821E.ipa
+Supported variant descriptors: [device: iPad11,4, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad8,11, os-version: 13.0], [device: iPad13,9, os-version: 14.0], [device: iPad13,10, os-version: 14.0], [device: iPad13,11, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad11,3, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad8,5, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad6,4, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad13,7, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad13,5, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad8,6, os-version: 13.0], [device: iPad13,6, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad11,1, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,4, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad8,12, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad11,4, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,6, os-version: 14.0], [device: iPad6,3, os-version: 13.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,2, os-version: 13.0], [device: iPad8,7, os-version: 13.0], and [device: iPad7,1, os-version: 14.0]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-7C034E94-B7B8-4331-8D1D-99A5CD2A746F.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 15.0], [device: iPhone10,4, os-version: 15.0], [device: iPhone9,3, os-version: 15.0], [device: iPhone10,1, os-version: 15.0], and [device: iPhone12,8, os-version: 15.0]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-89005595-0743-4CC5-9B00-B17B301F4193.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad6,4, os-version: 12.0], and [device: iPad8,1, os-version: 12.0]
+App + On Demand Resources size: 13.6 MB compressed, 35.2 MB uncompressed
+App size: 13.6 MB compressed, 35.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-A0A8FBA1-A439-4BBA-9416-248DEC909E51.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-A1A0FE62-1E23-43F3-A649-7CFE02BFFFE9.ipa
+Supported variant descriptors: [device: iPhone6,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], and [device: iPod7,1, os-version: 12.2]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-A4CBF16A-997F-474C-BC09-B29DE67BBBDD.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0] and [device: iPhone8,2, os-version: 14.0]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-AC415A03-72C9-427D-9D91-B1CCEBB79581.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], and [device: iPhone9,3, os-version: 12.2]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-BC27E654-7BFA-4193-B5A7-9A51D9AF1549.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 14.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 13.0], [device: iPod9,1, os-version: 14.0], [device: iPod9,1, os-version: 13.0], and [device: iPhone8,4, os-version: 13.0]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-BEBA2849-25CB-4731-9D67-91078ED6DB7C.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 15.0], [device: iPad12,2, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad6,11, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad11,6, os-version: 15.0], and [device: iPad11,7, os-version: 15.0]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-BF1F1B78-64D9-40B9-9CB3-87D33F9C7741.ipa
+Supported variant descriptors: [device: iPad4,2, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad5,1, os-version: 12.2], and [device: iPad4,7, os-version: 12.2]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-C091CE0A-C541-4140-9DBE-D82DE9AF0264.ipa
+Supported variant descriptors: [device: iPad5,2, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad5,1, os-version: 12.0], and [device: iPad6,8, os-version: 12.0]
+App + On Demand Resources size: 13.6 MB compressed, 35.2 MB uncompressed
+App size: 13.6 MB compressed, 35.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-D1054FB4-64C5-419A-A96B-1EC6046E8315.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 15.0], [device: iPod9,1, os-version: 15.0], and [device: iPhone8,1, os-version: 15.0]
+App + On Demand Resources size: 11.1 MB compressed, 27.4 MB uncompressed
+App size: 11.1 MB compressed, 27.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-D3338BF1-9741-4556-B27C-E6F5600849C9.ipa
+Supported variant descriptors: [device: iPhone11,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], and [device: iPhone10,2, os-version: 12.2]
+App + On Demand Resources size: 11.2 MB compressed, 27.5 MB uncompressed
+App size: 11.2 MB compressed, 27.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-E90786B1-A2DA-4D76-840B-8D4D2E9567BB.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.0] and [device: iPhone8,2, os-version: 12.0]
+App + On Demand Resources size: 13.7 MB compressed, 35.2 MB uncompressed
+App size: 13.7 MB compressed, 35.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-F28BF90E-EE32-4909-899F-1353BBCDA062.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], and [device: iPhone10,4, os-version: 12.0]
+App + On Demand Resources size: 13.6 MB compressed, 35.2 MB uncompressed
+App size: 13.6 MB compressed, 35.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance-FC9763DA-A930-4B7D-8881-E550BD7DA880.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], and [device: iPhone10,5, os-version: 12.0]
+App + On Demand Resources size: 13.7 MB compressed, 35.2 MB uncompressed
+App size: 13.7 MB compressed, 35.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: hrmfinance.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 13.9 MB compressed, 35.5 MB uncompressed
+App size: 13.9 MB compressed, 35.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

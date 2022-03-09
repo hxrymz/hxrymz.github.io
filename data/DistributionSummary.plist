@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hrmfinance.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>771A2346648E81BDD0DEE0F19105F78344A9A076</string>
+				<key>dateExpires</key>
+				<string>3/8/23</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>364P6H5GW9.hrmfinance</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>364P6H5GW9</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>364P6H5GW9.hrmfinance</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>hrmfinance.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cb3cece7-81f9-4c42-abe2-c3ce20722d24</string>
+				<key>dateExpires</key>
+				<string>3/8/23</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: hrmfinance</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>364P6H5GW9</string>
+				<key>name</key>
+				<string>Hector Ricardo</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.10</string>
+		</dict>
+	</array>
+</dict>
+</plist>
