@@ -27,6 +27,12 @@
 	"t_mobile.png": ["t mobile", "t mobil", "t.mobile", "t.mobil"],
 	"exxon.png": ["exxon", "exon"],
 	"thornton.png": ["thornton", "hornto"],
-	"1": ["china coast", "restaurant", "car wash", "ar was"],
-	"6": ["cuba", "express"]
+	"hrm_finance_logo.png": [
+		"china coast",
+		"restaurant",
+		"car wash",
+		"ar was",
+		"cuba",
+		"express"
+	]
 }
