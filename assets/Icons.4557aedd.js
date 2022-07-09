@@ -1,1 +1,0 @@
-import{r as i,L as d,j as s,P as r}from"./index.20bf7686.js";function m(e){let a=e.name;const[n]=i.exports.useState(d()),t=r(),c=t&&t[a];let o=e.size?e.size:24,l=e.color?e.color:"#5c5c5c";return s("svg",{className:`_Icons_${n}_`,fill:l,height:o,viewBox:"0 0 24 24",width:o,children:s("path",{d:c||""})})}export{m as default};
