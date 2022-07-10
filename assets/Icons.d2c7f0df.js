@@ -1,0 +1,1 @@
+import{r as i,U as d,j as s,V as r}from"./index.514a39b7.js";function m(e){let a=e.name;const[n]=i.exports.useState(d()),t=r(),c=t&&t[a];let o=e.size?e.size:24,l=e.color?e.color:"#5c5c5c";return s("svg",{className:`_Icons_${n}_`,fill:l,height:o,viewBox:"0 0 24 24",width:o,children:s("path",{d:c||""})})}export{m as default};
