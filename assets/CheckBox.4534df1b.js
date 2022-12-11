@@ -1,0 +1,1 @@
+import{a as s}from"./index.9d7fe9a9.js";const m=({data:e,active:i,updSelect:l})=>s("div",{className:"_dsplFlx main_chckbx ",children:e==null?void 0:e.map(c=>s("div",{className:"item_chckbx ","is-active":`${i===c.id}`,onClick:()=>l(c.id),children:c.label},c.id))});export{m as default};
