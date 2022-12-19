@@ -1,1 +1,0 @@
-import{r as s}from"./index.921eeb0e.js";const f=e=>{const[t,n]=s.exports.useState(null),[o,a]=s.exports.useState(""),[r,l]=s.exports.useState(null),u=220;return s.exports.useEffect(()=>{t||a(e),t>0&&t<Date.now()||r&&clearTimeout(r);let m=setTimeout(()=>{t>0&&t<Date.now()&&e!==o&&a(e)},u+30);return l(m),n(Date.now()+u),()=>{}},[e]),o};export{f as U};
