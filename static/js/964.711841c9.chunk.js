@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkhrmfinance=self.webpackChunkhrmfinance||[]).push([[964],{964:function(n,c,i){i.r(c),i.d(c,{default:function(){return a}});i(2791);var e=i(184),a=function(n){var c=n.data,i=n.active,a=n.updSelect;return(0,e.jsx)("div",{className:"_dsplFlx main_chckbx ",children:null===c||void 0===c?void 0:c.map((function(n){return(0,e.jsx)("div",{className:"item_chckbx ","is-active":"".concat(i===n.id),onClick:function(){return a(n.id)},children:n.label},n.id)}))})}}}]);
-//# sourceMappingURL=964.711841c9.chunk.js.map
