@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhrmfinance=self.webpackChunkhrmfinance||[]).push([[1788],{1788:(n,a,e)=>{e.r(a),e.d(a,{default:()=>i});var t=e(184);const i=n=>{let{}=n;return(0,t.jsx)("div",{className:"pin-input-container",children:[1,2,3,4,5,6].map((n=>(0,t.jsx)(r,{index:n})))})},r=n=>{let{index:a}=n;return(0,t.jsx)("input",{maxLength:"1",className:"pin-number-input",tabIndex:a,dataUia:"pin-number-".concat(a),ariaLabel:"Entrada de PIN ".concat(a),value:""})}}}]);
+//# sourceMappingURL=1788.29edcf0a.chunk.js.map
